@@ -67,7 +67,7 @@
     <Compile Include="Owin\EmbeddedAuthenticationHandler.cs" />
     <Compile Include="Owin\EmbeddedAuthenticationMiddleware.cs" />
     <Compile Include="Owin\EmbeddedAuthenticationOptions.cs" />
-    <Compile Include="Owin\EmbeddedOwinStartup.cs" />
+    <Compile Include="Owin\EmbeddedStartup.cs" />
     <Compile Include="KeycloakIdentityManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
